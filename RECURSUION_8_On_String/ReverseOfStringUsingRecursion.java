@@ -1,7 +1,6 @@
 package RECURSUION_8_On_String;
 
 import java.util.Scanner;
-import java.util.Stack;
 
 public class ReverseOfStringUsingRecursion {
 
