@@ -17,7 +17,7 @@ public class SortingStringArrayUsingLexicographical {
             arr[min] = temp;
         }
     }
-    
+
     public static void main(String[] args) {
         String [] arr = {"mango", "papaya","apple","kiwi"};
         sort(arr);
